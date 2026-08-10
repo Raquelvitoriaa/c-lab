@@ -38,24 +38,7 @@ O **C-Lab // Cyber Laboratory** é meu espaço de exxpermentação com a linguag
 O repositório acompanha minha evolução desde os fundamentos da programação até projetos que envolvem estruturas de dados, memória, arquivos e persistência.
 
 
-        C-Lab
-          |
-   -----------------
-   |               |
- TRAINING      PROJECTS 
-   |               |
-Exercises     Experiments
-   |              |
-  -----------------
-       |
-    C LANGUAGE
-       |
-   -------------------
-   |       |        |
- MEMORY   DATA     FILES
-  |     STUCTURES   |
-  -------------------
-  
+        
 
 ---
 
