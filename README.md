@@ -5,8 +5,9 @@ fazer uma "capa de introdução boa"
 # SYSTEM STATUS
 
 <div align="center">
-  C-LAB SYSTEM TERMINAL
-  
+  <h1>C-LAB SYSTEM TERMINAL</h1>
+</div>
+
   ```
 SYSTEM..............ONLINE
 CORE................C
@@ -19,8 +20,6 @@ MEMORY PROTOCOL.....ENABLED
 SECURITY............RESTRICTED
 ACESS...............GRANTED
   ```
-
-</div>
 
 > Welcome to C-Lab.
 
