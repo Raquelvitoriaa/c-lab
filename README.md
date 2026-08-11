@@ -8,39 +8,46 @@ fazer uma "capa de introdução boa"
   <h1>C-LAB SYSTEM TERMINAL</h1>
 </div>
 
-  ```
-SYSTEM..............ONLINE
-CORE................C
-COMPILER............GCC
-STANDARD............C17
-ENVIRONMENT.........TERMINAL
-HARDWARE LINK.......ACTIVE
-MEMORY PROTOCOL.....ENABLED
+| Parâmetro               | Valor                 |
+| ----------------------- | --------------------- |
+|    STATUS               |      ONLINE           |
+|    UPTIME               |  1847 dias, 06h:23m   |
+|    ÚLTIMO LOG           | [2026-08-11 03:14:02] |
+|    MODÚLOS ATIVOS       |        04             |
+|    MODÚLOS ARQUIVARDOS  |        01             |
+|    INTEGRIDADE DE MEMÓRIA |   SEM VAZAMENTOS DETECTADOS|
 
-SECURITY............RESTRICTED
-ACESS...............GRANTED
-  ```
+```diff
++[LOG] EXP-016_contador-dias....compilado sem warnings
++[LOG] EXP-015_adotapet.........triagem de espécimes estável
+![LOG] EXP014_sistema-jazigos...revisada e finalizada
+```
+
+---
 
 > Welcome to C-Lab.
 
-Um laboratório pessoal dedicado ao estudo da linguagem **C**, proramação estruturada e desenvolvimento de sistemas.
+# SOBRE ESTA INSTALAÇÃO
 
-Aqui, cada exercício é um protocolo.
-Cada projeto é um experimento.
-Cada erro é uma falha de sistema a ser investigada
+c-lab não é um repositório comum. É um laboratório subterrâneo de experimrntação em C puro-sem frameworks, sem redes de segurança, só o operador, o copilador e o hardware. Cada pasta é um **Módulo** isolado. Cada .c é um espécime sob observação. Ponteiros são bisturis malloc() é uma injeção controlada de memória no sistema-e cada injeção exige seu antiodotor:free().
 
----
-
-# ABOUT THE LAB
-
-O **C-Lab // Cyber Laboratory** é meu espaço de exxpermentação com a linguagem C.
-
-O repositório acompanha minha evolução desde os fundamentos da programação até projetos que envolvem estruturas de dados, memória, arquivos e persistência.
-
-
+> Entre por sua conta e risco.
         
+---
+
+# MAPA DE MÓDULOS - NÍVEIS DE ACESSO
+
+NÍVEL 00 - **CORTEXT-DRILL (Treinamento Base)
 
 ---
+
+
+
+
+
+
+
+
 
 # CORE OBJECTIVES
 
