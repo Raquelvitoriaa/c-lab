@@ -1,5 +1,8 @@
 fazer uma "capa de introdução boa"
 
+> Welcome to C-Lab.
+
+
 ---
 
 # SYSTEM STATUS
@@ -25,8 +28,6 @@ fazer uma "capa de introdução boa"
 
 ---
 
-> Welcome to C-Lab.
-
 # SOBRE ESTA INSTALAÇÃO
 
 c-lab não é um repositório comum. É um laboratório subterrâneo de experimrntação em C puro-sem frameworks, sem redes de segurança, só o operador, o copilador e o hardware. Cada pasta é um **Módulo** isolado. Cada .c é um espécime sob observação. Ponteiros são bisturis malloc() é uma injeção controlada de memória no sistema-e cada injeção exige seu antiodotor:free().
@@ -37,7 +38,11 @@ c-lab não é um repositório comum. É um laboratório subterrâneo de experimr
 
 # MAPA DE MÓDULOS - NÍVEIS DE ACESSO
 
-NÍVEL 00 - **CORTEXT-DRILL (Treinamento Base)
+NÍVEL 00 - **CORTEXT-DRILL** (Treinamento Base)
+> Protocolos sequenciais básicos. Calibração de reflexos antes da liberaçãu de acesso a ponteiros em produção.
+
+* 00_core_training/sequencial/
+* Status: ATIVO - EM EXPANSÃO CONTÍNUA
 
 ---
 
