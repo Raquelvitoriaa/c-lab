@@ -44,13 +44,13 @@ O repositório acompanha minha evolução desde os fundamentos da programação 
 
 # CORE OBJECTIVES
 
-[01] Build strong foundations in C
-[02] Practice algorithms and programming logic
-[03] Understand memory and pointers
-[04] Work with structs and structured data
-[05] Manipulate files and persistent data
-[06] Develop complete command-line systems
-[07] Document the evolution of every experiment.
+* [01] Build strong foundations in C
+* [02] Practice algorithms and programming logic
+* [03] Understand memory and pointers
+* [04] Work with structs and structured data
+* [05] Manipulate files and persistent data
+* [06] Develop complete command-line systems
+* [07] Document the evolution of every experiment.
 
 ---
 
