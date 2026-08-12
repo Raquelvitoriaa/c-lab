@@ -10,18 +10,17 @@
 
 ---
 
-|----------------------------------------|
-|          C-LAB // TERMINAL             |
-|----------------------------------------|
-| > booting laboratory...                |
-| > loading compiler...                  |
-| > loading memory...                    |
-| > loading experiments...               |
-|                                        |
-| [] 100%                                |
-|                                        |
-| STATUS: ONLINE                         |
-|----------------------------------------|
+
+        C-LAB // TERMINAL             
+        
+ > booting laboratory...                
+ > loading compiler...                  
+ > loading memory...                    
+ > loading experiments...               
+                                        
+ [] 100%                                
+                                       
+ STATUS: ONLINE                         
 
 
 
