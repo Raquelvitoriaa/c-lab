@@ -8,8 +8,22 @@
 
 > Welcome to C-Lab.
 
-
 ---
+
+                     C-LAB // TERMINAL
+
+> booting laboratory...
+> loading compiler...
+> loading memory...
+> loading experiments...
+
+[] 100%
+
+STATUS: ONLINE
+
+
+
+
 
 # SYSTEM STATUS
 
