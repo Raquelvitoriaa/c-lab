@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=700&lines=INITIALIZING+C-LAB...;LOW-LEVEL+CODING+ENVIRONMENR;SYSTEM+ONLINE.;WELCOME+TO+THE+LAB." alt="typing SVG" /></p>
 
 <p align="center">
-<img src="https://img.shields.io/bagde/LANGUAGE-C-00FFC9?style=for-the-badge&logo=c&logoColor=black" />
+<img src="https://img.shields.io/bagde/Language-C-00FFC9?style=for-the-badge&logo=c&logoColor=black" />
 <img src="https://img.shields.io/badge/Focus-Low--Level-00E5FF?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Status-Active-FF00FF?style=for-the-badge" /></p>
 
