@@ -5,7 +5,7 @@ int main ()
 	
     char nome[20];
 	printf("Que o seu nome? ");
-	scanf("%s", &nome);
+	scanf("%20[^\n]", &nome);
 	fflush(stdin);
 	printf("Muito prazer, %s!\n", nome);
 	getchar();
