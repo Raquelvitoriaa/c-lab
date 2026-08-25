@@ -9,10 +9,6 @@
 > Welcome to C-Lab.
 
 ---
-
-+-----------------------------------------+
-|        C-LAB // TERMINAL                |                                   
-+-----------------------------------------+
         
  > booting laboratory...                
  > loading compiler...                  
@@ -54,6 +50,30 @@ c-lab não é um repositório comum. É um laboratório subterrâneo de experimr
 
 > Entre por sua conta e risco.
         
+---
+
+"> MISSION"
+
+* Aprender C na prática
+* Desenvolver lógica de programação
+* Entender memória e estruturas de dados
+* Praticar algoritmos
+* Criar pequenos sistemas
+* Registrar minha evolução
+
+O objetivo não é criar códigos perfeitos desde o início.
+
+O objetivo é aprender, experimentar, errar, corrigir e evoluir.
+
+---
+
+"> TECH_STACK"
+
+<p align="center">
+        <img src="https://skili
+
+
+
 ---
 
 # MAPA DE MÓDULOS - NÍVEIS DE ACESSO
