@@ -10,20 +10,22 @@
 
 ---
 
-
-        C-LAB // TERMINAL             
++-----------------------------------------+
+|                                         |
+|        C-LAB // TERMINAL                |
+|                                         |
++-----------------------------------------+
         
  > booting laboratory...                
  > loading compiler...                  
  > loading memory...                    
  > loading experiments...               
                                         
- [] 100%                                
+ [▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰] 100%                                
                                        
- STATUS: ONLINE                         
+ STATUS: ONLINE                        
 
-
-
+---
 
 # SYSTEM STATUS
 
