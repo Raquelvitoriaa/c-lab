@@ -46,33 +46,50 @@
 
 # SOBRE ESTA INSTALAÇÃO
 
-c-lab não é um repositório comum. É um laboratório subterrâneo de experimrntação em C puro-sem frameworks, sem redes de segurança, só o operador, o copilador e o hardware. Cada pasta é um **Módulo** isolado. Cada .c é um espécime sob observação. Ponteiros são bisturis malloc() é uma injeção controlada de memória no sistema-e cada injeção exige seu antiodotor:free().
+> ABOUT_C-LAB
 
-> Entre por sua conta e risco.
+**C-Lab** é meu laboratório pessoal dedicado exclusivamente á linguagem **C**.
+
+Este repositório nasceu para centralizar meus estudos, experimentos, exercicios e pequenos projetos desenvolvidos durante minha jornada de aprendizado em programação.
+
+
+Cada pasta representa uma experiência, um conceito estudado ou um pequeno sistema construído para transformar teoria em código.
+
+> CODE. COMPILE. DEBUG. LEARN. REPEAT.
+
+---
         
 ---
 
-"> MISSION"
+> MISSION
 
 * Aprender C na prática
 * Desenvolver lógica de programação
 * Entender memória e estruturas de dados
 * Praticar algoritmos
 * Criar pequenos sistemas
+* Experimentar com Códigos
 * Registrar minha evolução
 
 O objetivo não é criar códigos perfeitos desde o início.
 
-O objetivo é aprender, experimentar, errar, corrigir e evoluir.
+O objetivo é **aprender, experimentar, errar, corrigir e evoluir**.
 
 ---
 
-"> TECH_STACK"
+> TECH_STACK
+
+### Linguagem Principal
+
+<p align="center>
+        <img src="https://skillicons.dev/icons?i=c" />
+</p>
+
+### Ferramentas
 
 <p align="center">
-        <img src="https://skili
-
-
+        <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
