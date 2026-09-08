@@ -58,8 +58,6 @@ Cada pasta representa uma experiência, um conceito estudado ou um pequeno siste
 > CODE. COMPILE. DEBUG. LEARN. REPEAT.
 
 ---
-        
----
 
 > MISSION
 
@@ -81,7 +79,7 @@ O objetivo é **aprender, experimentar, errar, corrigir e evoluir**.
 
 ### Linguagem Principal
 
-<p align="center>
+<p align="center">
         <img src="https://skillicons.dev/icons?i=c" />
 </p>
 
@@ -90,6 +88,99 @@ O objetivo é **aprender, experimentar, errar, corrigir e evoluir**.
 <p align="center">
         <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
+
+---
+
+> LAB_MODULES
+
+O laboratório é dividido em diferentes áreas de experimentação.
+
+C-LAB/
+|
+├── 01-fundamentos/
+|    ├── variaveis/
+|    ├── operadores/
+|    ├── entrada-saida/
+|    └── condicionais/
+|
+├── 02-loops/
+|   ├── for/
+|   ├── while/
+|   └── do-while/
+|
+├── 03-arrays/
+|   ├── vetores/
+|   └── matrizes/
+|
+├── 04-funcoes/
+|    ├── funcoes-basicas/
+|    └── recursividade/
+|
+├── 05-strings/
+|
+├── 06-ponteiros/
+|
+├── 07-structs/
+|
+├── 08-arquivos/
+|
+├── 09-algoritmos/
+|
+├── 10-mine-projetos/
+|   ├── calculadora/
+|   ├── sistema-cadastro/
+|   └── ...
+|
+└── README.md
+
+> A estrutura poderá crescer conforme novos conceitos forem estudados.
+
+---
+
+> PROJECTS
+
+Pequenos projetos desenvolvidos para colocar os conceitos de C em prática.
+
+```div
+|Projeto	  |   Conceitos	   |   Status   |
+|🧮 Calculadora	|   Operadores, funções |  ONLINE |
+|🗂️ Sistema de Cadastro	Structs, funções, arquivos | ONLINE |
+|🪦 Sistema de Jazigos	Structs, arquivos, CRUD | ONLINE |
+|🐾 Sistema de Adoção |	Structs, funções, arquivos | ONLINE |
+|🔐 Experimentos com Strings | Strings, arrays	| IN PROGRESS |
+```
+
+> A lista será atualizada conforme novos experimentos forem adicionados ao laboratório.
+
+---
+
+> LEARNING_PATH
+
+Minha evolução dentro da linguagem C acontece por etapas:
+
+[01] FUNDAMENTOS
+      ↓
+[02] CONTROLE DE FLUXO
+      ↓
+[03] ARRAYS & STRINGS
+      ↓
+[04] FUNCTIONS
+      ↓
+[05] STRUCTS
+      ↓
+[06] POINTERS
+      ↓
+[07] MEMORY
+      ↓
+[08] FILE HANDLING
+      ↓
+[09] DATA STRUCTURES
+      ↓
+[10] ALGORITHMS
+      ↓
+[11] PROJECTS
+
+Cada novo conceito desbloqueia uma nova área do laboratório
 
 ---
 
