@@ -95,6 +95,7 @@ O objetivo é **aprender, experimentar, errar, corrigir e evoluir**.
 
 O laboratório é dividido em diferentes áreas de experimentação.
 
+```class
 C-LAB/
 |
 ├── 01-fundamentos/
@@ -132,6 +133,7 @@ C-LAB/
 |   └── ...
 |
 └── README.md
+```
 
 > A estrutura poderá crescer conforme novos conceitos forem estudados.
 
