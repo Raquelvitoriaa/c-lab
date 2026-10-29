@@ -161,7 +161,8 @@ Pequenos projetos desenvolvidos para colocar os conceitos de C em prática.
 
 Minha evolução dentro da linguagem C acontece por etapas:
 
-    [01] FUNDAMENTOS
+     <div align+"center"> 
+       [01] FUNDAMENTOS
               ↓
     [02] CONTROLE DE FLUXO
               ↓
@@ -182,6 +183,7 @@ Minha evolução dentro da linguagem C acontece por etapas:
     [10] ALGORITHMS
          ↓
     [11] PROJECTS
+    </div>
 
 > *Cada novo conceito desbloqueia uma nova área do laboratório*
 
