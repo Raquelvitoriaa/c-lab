@@ -88,7 +88,7 @@ O objetivo é **aprender, experimentar, errar, corrigir e evoluir**.
 ### Ferramentas
 
 <p align="center">
-        <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,falcon" />
 </p>
 
 ---
