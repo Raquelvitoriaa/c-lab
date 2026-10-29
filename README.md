@@ -9,7 +9,8 @@
 > Welcome to C-Lab.
 
 ---
-        
+
+```
  > booting laboratory...                
  > loading compiler...                  
  > loading memory...                    
@@ -18,6 +19,7 @@
  [▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰] 100%                                
                                        
  STATUS: ONLINE                        
+```
 
 ---
 
