@@ -161,29 +161,29 @@ Pequenos projetos desenvolvidos para colocar os conceitos de C em prática.
 
 Minha evolução dentro da linguagem C acontece por etapas:
 
-[01] FUNDAMENTOS
-      ↓
-[02] CONTROLE DE FLUXO
-      ↓
-[03] ARRAYS & STRINGS
-      ↓
-[04] FUNCTIONS
-      ↓
-[05] STRUCTS
-      ↓
-[06] POINTERS
-      ↓
-[07] MEMORY
-      ↓
-[08] FILE HANDLING
-      ↓
-[09] DATA STRUCTURES
-      ↓
-[10] ALGORITHMS
-      ↓
-[11] PROJECTS
+    [01] FUNDAMENTOS
+              ↓
+    [02] CONTROLE DE FLUXO
+              ↓
+    [03] ARRAYS & STRINGS
+            ↓
+    [04] FUNCTIONS
+           ↓
+    [05] STRUCTS
+          ↓
+    [06] POINTERS
+          ↓
+    [07] MEMORY
+          ↓
+    [08] FILE HANDLING
+          ↓
+    [09] DATA STRUCTURES
+          ↓
+    [10] ALGORITHMS
+         ↓
+    [11] PROJECTS
 
-Cada novo conceito desbloqueia uma nova área do laboratório
+> *Cada novo conceito desbloqueia uma nova área do laboratório*
 
 ---
 
