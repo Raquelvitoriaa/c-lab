@@ -145,14 +145,13 @@ C-LAB/
 
 Pequenos projetos desenvolvidos para colocar os conceitos de C em prática.
 
-```div
 |Projeto	  |   Conceitos	   |   Status   |
+|----------|----------------|------------|
 |🧮 Calculadora	|   Operadores, funções |  ONLINE |
 |🗂️ Sistema de Cadastro	Structs, funções, arquivos | ONLINE |
 |🪦 Sistema de Jazigos	Structs, arquivos, CRUD | ONLINE |
 |🐾 Sistema de Adoção |	Structs, funções, arquivos | ONLINE |
 |🔐 Experimentos com Strings | Strings, arrays	| IN PROGRESS |
-```
 
 > A lista será atualizada conforme novos experimentos forem adicionados ao laboratório.
 
